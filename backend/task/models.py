@@ -5,4 +5,8 @@ class Task(models.Model):
     completed = models.BooleanField(default=False)
     date = models.DateTimeField(auto_now = True)
 
-    
+    def __str__(self):
+        return self.title
+
+    class Meta:
+        ordering = ['title']
