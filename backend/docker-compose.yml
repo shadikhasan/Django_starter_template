@@ -1,5 +1,5 @@
 version: '3.8'
-
+shadik
 services:
   # Django application service
   app:
