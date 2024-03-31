@@ -23,11 +23,11 @@ The API will then be available at [http://127.0.0.1:8000/home](http://127.0.0.1:
 
 ### To Log in To the Dashboard(Frontend) or Admin Panel
 
-## Username
+#### Username
 ```
 admin
 ```
-## Password
+#### Password
 ```
 admin
 ```
