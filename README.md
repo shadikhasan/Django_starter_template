@@ -1,8 +1,3 @@
-## About Us
-- Team Name : `LAZY_CODERS`
-- Member1 : `Ekramul Islam Shadik` - `shadik.sk420@gmail.com`
-- Member2 : 
-- Member3 :
 
 ## Getting started
 
